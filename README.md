@@ -140,8 +140,6 @@ streamlit run marketAnalyzer.py
 4. **Generation**: Report compilation and visualization
 5. **Export**: Multi-format, multi-language output
 
-## 📊 Sample Output
-
 ### Dashboard Metrics
 - Market Growth: +15.3% ↗ 2.1%
 - Sentiment Score: 0.82 ↗ 0.05  
@@ -183,23 +181,6 @@ We welcome contributions! Here's how you can help:
 3. Make your changes and test thoroughly
 4. Submit a pull request with detailed description
 
-## 📈 Roadmap
-
-### Version 2.0 (Planned)
-- **Advanced Analytics**: Predictive modeling with time series forecasting
-- **Collaboration**: Team workspaces and shared reports
-- **API Expansion**: Bloomberg, Yahoo Finance, Alpha Vantage integration
-- **Mobile App**: React Native companion application
-
-### Version 2.1 (Future)
-- **Real-time Alerts**: Market movement notifications
-- **Custom Models**: Train your own analysis models
-- **White-label Solution**: Enterprise customization options
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 About the Developer
 
 **Misbah Noorain** 🎓
@@ -232,7 +213,6 @@ Having issues? Need help?
 If this project helps your market research efforts, please consider:
 - Starring ⭐ the repository
 - Sharing with your network
-- Contributing to the codebase
 - Providing feedback and suggestions
 
 *Last updated: January 2025*
