@@ -235,6 +235,4 @@ If this project helps your market research efforts, please consider:
 - Contributing to the codebase
 - Providing feedback and suggestions
 
-**Built with ❤️ using Groq AI • Made for researchers, by a researcher**
-
 *Last updated: January 2025*
